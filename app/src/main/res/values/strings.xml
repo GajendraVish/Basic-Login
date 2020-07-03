@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="mobile_alt_no">Alternate Mobile no(optional)</string>
+    <string name="new_user_sign_up">New user? Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="label_mobile_no">Please enter mobile no</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="btn_ok" translatable="false">OK</string>
+    <string name="submit">Submit</string>
+    <string name="label_dismiss">Dismiss</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="mobile_no">Mobile no</string>
+    <string name="msg_enter_username" translatable="false">Please Enter Username.</string>
+    <string name="msg_enter_password" translatable="false">Please Enter Password.</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_dismiss" translatable="false">Dismiss</string>
+    <string name="progress_message">Please wait</string>
+    <string name="password">Password</string>
+    <string name="cnf_password">Confirm Password</string>
+</resources>
